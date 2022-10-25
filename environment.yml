@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - matplotlib
+  - pandas
+  - seaborn
+  - rise
+  - pytorch
+  - cpuonly
+  - pip:
+    - jupyter-contrib-nbextensions
